@@ -8,9 +8,14 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background: url(../src/components/pexels-henry-&-co-1939485.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .container {
+  background-color: #fff;
   max-width: 500px;
   margin: 30px auto;
   overflow: auto;
